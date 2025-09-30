@@ -149,7 +149,8 @@ body {
 
         .footer .text {
             text-decoration: none;
-            font-size: 5.5vw;
+            font-size: 6.4vw;
+            white-space: nowrap;
             font-weight: bolder;
             color: #0f0f0f;
             height: fit-content;
